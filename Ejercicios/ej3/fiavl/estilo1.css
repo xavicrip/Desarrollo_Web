@@ -1,0 +1,112 @@
+
+a{
+    text-decoration: none;
+}
+
+td{
+    position:absolute
+    border 2px solid black;
+    background: white;
+    padding: 15px;
+}
+
+.LOGOS{
+        padding: 50px;
+        margin: 10px;
+        
+    } 
+.entradas{
+   
+    float: left;   
+        
+}
+     
+#usuario{
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px;
+            
+    }
+    #lista{
+
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px;
+    float:30px;
+        
+    }
+    
+    #eventos{
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px;
+        
+    }
+    
+    #sedes{
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px;
+    }
+    #exportar{
+        
+        border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px;
+    
+    }
+    #resultados{
+        
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px
+    }
+    #google{
+        
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px
+    }
+    #carta{
+        
+    border: 2px solid;
+    text-align:center;
+    padding: 10px;
+    left: 20px;
+    margin: 50px;
+    width:150px;
+    height:150px
+    }
+img{
+    height: 140px;
+    width: 150px;
+}
+   

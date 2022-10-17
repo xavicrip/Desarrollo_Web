@@ -1,0 +1,49 @@
+.opciones {
+    border : solid 2px pink; 
+    width: 120px; 
+    height: 120px; 
+    border-radius: 5PX; 
+    margin: 17px; 
+    float:left;
+    text-align: center;
+}
+    
+body {
+    width: 100%; 
+    height:100%;
+}
+#home {
+    width: 680px
+}
+.eventos {
+    width: 680px
+}
+.evento{
+    float: right;
+     width: 180px
+    }
+#evento2 {
+    float: right
+}
+.formato {
+    margin-top: 45px; 
+    margin-left: 15px
+}
+
+#g1{
+    height: 90px;
+    width: 90px;
+}
+#primera{
+    float:right;
+    height: 10px;
+    width: 1px;
+}
+#link{
+    text-align: right;
+
+}
+#num{
+    float: right;
+    height: 40px;
+}
